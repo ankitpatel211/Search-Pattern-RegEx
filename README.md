@@ -7,4 +7,4 @@ A "file search pattern" of a document that matches "a file name with extensions 
 ### RegEx 101 output
 [File Search Pattern](https://regex101.com/r/gjlKmd/1)
 ### An example of project files output
-![NodeJS Project Files Search](/Document/Search-Pattern/FileSearch.png)
+![NodeJS Project Files Search](/Document/Search-Pattern/file-search.png)
